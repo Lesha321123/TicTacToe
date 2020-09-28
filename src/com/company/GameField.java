@@ -16,7 +16,7 @@ public class GameField {
                     countChar++;
                 } else {
                     count = 0;
-                    if (countChar == 3) { //Сделать по нормальному!
+                    if (countChar == 3) { //Сделать по нормальному!!!
                         i = 0;
                     } else if (countChar == 6) {
                         i = 1;
